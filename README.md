@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho em ... projetos voltados à necessidades de órgão públicos ...
+- 🔭 Atualmente trabalho em ... projetos voltados às necessidades de órgãos públicos ...
 - 🌱 I’m currently learnin... Cache com Redis em aplicações Spring Boot
 - 🤔 I’m looking for help with ... Java, Spring Boot, Python, conserto de motocicleta e sugestões de séries no Netflix
 
